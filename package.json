@@ -1,0 +1,17 @@
+{
+  "name": "slack-spoilers",
+  "version": "1.0.0",
+  "description": "slash command for hiding spoilers",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Spencer",
+  "license": "ISC"
+}
